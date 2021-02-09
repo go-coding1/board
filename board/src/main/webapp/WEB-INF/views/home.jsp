@@ -6,6 +6,7 @@
 	<title>Home</title>
 </head>
 <body>
+<!-- 내용추가 -->
 <h1>
 	Hello world!  
 </h1>
